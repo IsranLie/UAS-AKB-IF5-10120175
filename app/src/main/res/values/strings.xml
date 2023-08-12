@@ -1,0 +1,36 @@
+<resources>
+    <!--10120175 - I Wayan Widi P - IF5 - August 2023-->
+    <string name="app_name">Noto-10120175</string>
+    <string name="data_diri">NIM: 10120175\nNama: I Wayan Widi Pastika\nKelas: IF-5\nEmail: i.10120175.@mahasiswa.unikom.ac.id</string>
+    <string name="pembuka">ノート - Nōto merupakan aplikasi catatan harian sederhana yang memungkinkan Pengguna untuk menambahkan catatan berupa judul dan isi. Terdapat menu Home, Profile, serta Info pada aplikasi ini.</string>
+
+    <string name="menu_home">• Menu Home: Pada halaman Home Pengguna dapat menambahkan catatan dengan menekan tombol tambah (+) pada pojok kanan bawah, dan mulai mengisikan judul serta isi catatan, lalu klik tombol Save. Setelah itu akan terlihat daftar catatan yang telah ditambahkan. Pilih salah satu catatan untuk melakukan aksi Ubah atau Hapus catatan.</string>
+    <string name="menu_profile">• Menu Profile: Pada menu ini terdapat informasi mengenai data diri penulis/pembangun aplikasi.</string>
+    <string name="menu_logout">• Menu Logout: Berguna untuk keluar dari aplikasi catatan ini.</string>
+    <string name="copyright">©10120175 | 2023</string>
+
+    <string name="judul">Title</string>
+    <string name="kategori">Category</string>
+    <string name="isi">Start typing</string>
+
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="memo">ノート - Nōto</string>
+    <string name="penjelasan">Mulai tulis catatanmu dengan klik tombol \u002B</string>
+    <string name="txt_add">Add note</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--10120175 - I Wayan Widi P - IF5 - August 2023-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.fragment.InfoFragment">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager_info"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>
