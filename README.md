@@ -6,7 +6,9 @@
 
 ## Screenshots
 
+![Halaman login](https://github.com/IsranLie/UAS-AKB-IF5-10120175/assets/95160822/0fea07ab-148b-4ba5-b73a-ea41dcc8b3f4)
 
+![Halaman home](https://github.com/IsranLie/UAS-AKB-IF5-10120175/assets/95160822/8ef81566-7fd3-4ff8-b80c-eb5634e69aeb)
 
 
 ## Features
